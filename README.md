@@ -11,3 +11,5 @@ Repo Named after the first books initials
 ## Sites
 - [KernelNewbies]()
 
+## Courses/Videos
+- [Let's Code a Linux Driver - Johannes 4GNU_Linux](https://youtube.com/playlist?list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa&si=uvqAif4xgEcGOnm5)
